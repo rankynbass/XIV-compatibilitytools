@@ -1,0 +1,21 @@
+{
+  "ReleaseDate": "2025-08-02T17:35:05Z",
+  "NvapiVersions": [
+    {
+      "Name": "dxvk-nvapi-v0.9.0",
+      "Label": "Dxvk Nvapi 0.9.0",
+      "Description": "For DLSS with nVidia cards and Stable Dxvk release. Does nothing with non-DLSS cards.",
+      "DownloadUrl": "https://github.com/jp7677/dxvk-nvapi/releases/download/v0.9.0/dxvk-nvapi-v0.9.0.tar.gz",
+      "Checksum": "c69fefee7e9b4efc2521bd96de4d413a130a8c509b62572673acd70a884ec2c0799eb973d65c466e66ece0df10e03410ed94e35c3fc10a5f42ff2b9c392f18e0"
+    },
+    {
+      "Name": "dxvk-nvapi-v0.6.4",
+      "Label": "Dxvk Nvapi 0.6.4",
+      "Description": "For DLSS with nVidia cards and the 2.2 Dxvk release.",
+      "DownloadUrl": "https://github.com/jp7677/dxvk-nvapi/releases/download/v0.6.4/dxvk-nvapi-v0.6.4.tar.gz",
+      "Checksum": "fc99c1c4dd43b1e3c2870766f32c644921c686a52068de0fe2403a46c5b546ca5408669e181e6ba877f0a788939a374508912514bd3e4309c1ce0a79cbd7b6a4"
+    }
+  ],
+  "Latest": "dxvk-nvapi-v0.9.0",
+  "Legacy": ""
+}

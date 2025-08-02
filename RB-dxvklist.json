@@ -1,0 +1,35 @@
+{
+  "ReleaseDate": "2025-08-02T17:35:05Z",
+  "DxvkVersions": [
+    {
+      "Name": "dxvk-2.7",
+      "Label": "Stable 2.7",
+      "Description": "Dxvk 2.7 without Async patches. For most graphics cards.",
+      "DownloadUrl": "https://github.com/doitsujin/dxvk/releases/download/v2.7/dxvk-2.7.tar.gz",
+      "Checksum": "adfbe6ff61467dea212acf8b5e82007a2376d69bf21572d0020e49aaa4ab8315bcce67c4f01dfd133908bcf6ef20b17d8b0e88d784e2f42051ca972f902fe9ff"
+    },
+    {
+      "Name": "dxvk-gplasync-v2.7-1",
+      "Label": "Async 2.7",
+      "Description": "Dxvk 2.7 with GPLAsync patches. For most graphics cards.",
+      "DownloadUrl": "https://gitlab.com/Ph42oN/dxvk-gplasync/-/raw/main/releases/dxvk-gplasync-v2.7-1.tar.gz",
+      "Checksum": "1fe59a91f3d3a09a132d1f9c3f7e94d47154e53e58f935daa090aa6dea5c8e6c64800334a6f3014751492a2f32002d8ce63e8086284df0b8d4cbace0353e0f3b"
+    },
+    {
+      "Name": "dxvk-2.2",
+      "Label": "Stable 2.2",
+      "Description": "Dxvk 2.2. May work better for some slightly older graphics cards.",
+      "DownloadUrl": "https://github.com/doitsujin/dxvk/releases/download/v2.2/dxvk-2.2.tar.gz",
+      "Checksum": "e4bd21c576bb6a109d4a355007af359d365a61d21966a578703bedefe9afa23c09e5200eaf2d020435a9dcc0e80f3b1ecc2ca681091dceac0b29f10a2540a8a9"
+    },
+    {
+      "Name": "dxvk-async-1.10.3",
+      "Label": "Legacy 1.10.3",
+      "Description": "Dxvk Async 1.10.3. For older graphics cards.",
+      "DownloadUrl": "https://github.com/Sporif/dxvk-async/releases/download/1.10.3/dxvk-async-1.10.3.tar.gz",
+      "Checksum": "afc856b859f1c36d919055e471ae1dd1900424ea42139ab8c1ae231fe9617234d1dfa53f6bf0e5d183575a224f2b8bc950f258108607f39cc419823d68f06ff2"
+    }
+  ],
+  "Latest": "dxvk-2.7",
+  "Legacy": "dxvk-async-1.10.3"
+}
