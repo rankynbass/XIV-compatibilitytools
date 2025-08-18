@@ -1,5 +1,5 @@
 {
-  "ReleaseDate": "2025-08-17T23:13:13Z",
+  "ReleaseDate": "2025-08-18T21:33:07Z",
   "WineVersions": [
     {
       "Name": "unofficial-wine-xiv-staging-10.10",
@@ -32,6 +32,17 @@
         "3aefdd0a070f20c8c4a63a359bae00ae381642a0c471fbe871534316551e974343bf35b07ec8971b7c260aba4921dbb0bf3a486944458f269239ac2e9c33b873"
       ],
       "Lsteamclient": true,
+      "IsProton": false
+    },
+    {
+      "Name": "unofficial-wine-xiv-Proton8-26-x86_64",
+      "Label": "Wine-GE-XIV 8-26",
+      "Description": "Patched version of Wine-GE 8-26",
+      "DownloadUrl": "https://github.com/rankynbass/wine-ge-xiv/releases/download/xiv-Proton8-26/unofficial-wine-xiv-Proton8-26-x86_64.tar.xz",
+      "Checksums": [
+        "skip"
+      ],
+      "Lsteamclient": false,
       "IsProton": false
     },
     {
