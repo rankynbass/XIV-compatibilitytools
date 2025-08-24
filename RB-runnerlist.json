@@ -1,6 +1,28 @@
 {
-  "ReleaseDate": "2025-08-18T21:33:07Z",
+  "ReleaseDate": "2025-08-24T20:19:04Z",
   "WineVersions": [
+    {
+      "Name": "unofficial-wine-xiv-staging-10.13",
+      "Label": "Unofficial 10.13",
+      "Description": "Rankyn\u0027s Unofficial Wine-XIV 10.13",
+      "DownloadUrl": "https://github.com/rankynbass/unofficial-wine-xiv-git/releases/download/v10.13/unofficial-wine-xiv-staging-{wineDistroId}-10.13.tar.xz",
+      "Checksums": [
+        "skip"
+      ],
+      "Lsteamclient": true,
+      "IsProton": false
+    },
+    {
+      "Name": "unofficial-wine-xiv-staging-ntsync-10.13",
+      "Label": "Unofficial 10.13 NTSync",
+      "Description": "Rankyn\u0027s Unofficial Wine-XIV 10.13 with NTSync",
+      "DownloadUrl": "https://github.com/rankynbass/unofficial-wine-xiv-git/releases/download/v10.13/unofficial-wine-xiv-staging-ntsync-10.13.tar.xz",
+      "Checksums": [
+        "skip"
+      ],
+      "Lsteamclient": true,
+      "IsProton": false
+    },
     {
       "Name": "unofficial-wine-xiv-staging-10.10",
       "Label": "Unofficial 10.10",
@@ -87,8 +109,19 @@
   ],
   "ProtonVersions": [
     {
+      "Name": "GE-Proton10-13",
+      "Label": "GE-Proton 10-13",
+      "Description": "GE-Proton 10-13 with NTSync, FSync, and ESync. Now compatible with Dalamud",
+      "DownloadUrl": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-13/GE-Proton10-13.tar.gz",
+      "Checksums": [
+        "abdd7ba9404b648eb4a06e65520fbfeaf500a27a81f80b5d772b551ca9e942457a282c0e087c11b18e70f8bed3aceba55c137b647232fad4a4ff1b2a7974c7fa"
+      ],
+      "Lsteamclient": true,
+      "IsProton": true
+    },
+    {
       "Name": "GE-Proton10-12",
-      "Label": "GE-Proton10-12",
+      "Label": "GE-Proton 10-12",
       "Description": "GE-Proton 10-12 with NTSync, FSync, and ESync. Now compatible with Dalamud",
       "DownloadUrl": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-12/GE-Proton10-12.tar.gz",
       "Checksums": [
@@ -98,12 +131,12 @@
       "IsProton": true
     },
     {
-      "Name": "GE-Proton10-11",
-      "Label": "GE-Proton10-11",
-      "Description": "GE-Proton 10-11 with NTSync, FSync, and ESync. Now compatible with Dalamud",
-      "DownloadUrl": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-11/GE-Proton10-11.tar.gz",
+      "Name": "Proton-Sarek10-12-async",
+      "Label": "Proton-Sarek 10-12",
+      "Description": "GE-Proton 10-12 with tweaks for older GPUs. Uses older dxvk-async.",
+      "DownloadUrl": "https://github.com/pythonlover02/Proton-Sarek/releases/download/Proton-Sarek10-12/Proton-Sarek10-12-async.tar.gz",
       "Checksums": [
-        "5435b391e34a0ac50af63839d7895b82ee11b567d8dbcaec884993a25658d1102e91a360061f7449aafb64483a0a11735d452f1a0c292091df49daeebc097ad6"
+        "cef3d1bd5d877692a145356e49cd7f2bffe4abc129e4f3ab6a9d0c142122e837cf407b80a5755fc0256f1d42e7e2e0b5a6fd68c30b07bd92b8b559e598ea801a"
       ],
       "Lsteamclient": true,
       "IsProton": true
