@@ -1,6 +1,28 @@
 {
-  "ReleaseDate": "2025-08-29T03:30:48Z",
+  "ReleaseDate": "2025-09-11T01:15:02Z",
   "WineVersions": [
+    {
+      "Name": "unofficial-wine-xiv-staging-10.14",
+      "Label": "Unofficial 10.14",
+      "Description": "Rankyn\u0027s Unofficial Wine-XIV 10.14",
+      "DownloadUrl": "https://github.com/rankynbass/unofficial-wine-xiv-git/releases/download/v10.14/unofficial-wine-xiv-staging-{wineDistroId}-10.14.tar.xz",
+      "Checksums": [
+        "skip"
+      ],
+      "Lsteamclient": true,
+      "IsProton": false
+    },
+    {
+      "Name": "unofficial-wine-xiv-staging-ntsync-10.14",
+      "Label": "Unofficial 10.14 NTSync",
+      "Description": "Rankyn\u0027s Unofficial Wine-XIV 10.14 with NTSync",
+      "DownloadUrl": "https://github.com/rankynbass/unofficial-wine-xiv-git/releases/download/v10.14/unofficial-wine-xiv-staging-ntsync-10.14.tar.xz",
+      "Checksums": [
+        "skip"
+      ],
+      "Lsteamclient": true,
+      "IsProton": false
+    },
     {
       "Name": "unofficial-wine-xiv-staging-10.13",
       "Label": "Unofficial 10.13",
