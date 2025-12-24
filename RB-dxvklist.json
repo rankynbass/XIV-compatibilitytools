@@ -1,5 +1,5 @@
 {
-  "ReleaseDate": "2025-09-11T01:15:02Z",
+  "ReleaseDate": "2025-12-24T01:09:49Z",
   "DxvkVersions": [
     {
       "Name": "dxvk-2.7.1",
@@ -9,18 +9,25 @@
       "Checksum": "49f617de31e502fc158df3845845a3c19fa912681dbbf0e2309079184fd9957905350669dcaf1e3ba661f2f1739b5f6b9e1151e73b485021491f194eae9c2d13"
     },
     {
-      "Name": "dxvk-2.7",
-      "Label": "Stable 2.7",
-      "Description": "Dxvk 2.7 without Async patches. For most graphics cards.",
-      "DownloadUrl": "https://github.com/doitsujin/dxvk/releases/download/v2.7/dxvk-2.7.tar.gz",
-      "Checksum": "adfbe6ff61467dea212acf8b5e82007a2376d69bf21572d0020e49aaa4ab8315bcce67c4f01dfd133908bcf6ef20b17d8b0e88d784e2f42051ca972f902fe9ff"
+      "Name": "dxvk-2.6.2",
+      "Label": "Stable 2.6.2",
+      "Description": "Dxvk 2.6.2 without Async patches. Try this if 2.7.1 doesn\u0027t work.",
+      "DownloadUrl": "https://github.com/doitsujin/dxvk/releases/download/v2.6.2/dxvk-2.6.2.tar.gz",
+      "Checksum": "9f70ec8129c1fed10b43f7a49cff588d7aff5b147e4e9d8043de81ed3d77ee4819d69359e797b596c9dfee7b69f193ad36bd91a62184664872a2a0e85dad90c2"
     },
     {
-      "Name": "dxvk-gplasync-v2.7-1",
-      "Label": "Async 2.7",
-      "Description": "Dxvk 2.7 with GPLAsync patches. For most graphics cards.",
-      "DownloadUrl": "https://gitlab.com/Ph42oN/dxvk-gplasync/-/raw/main/releases/dxvk-gplasync-v2.7-1.tar.gz",
+      "Name": "dxvk-gplasync-v2.7.1-1",
+      "Label": "Async 2.7.1",
+      "Description": "Dxvk 2.7.1 with GPLAsync patches. For most graphics cards.",
+      "DownloadUrl": "https://gitlab.com/Ph42oN/dxvk-gplasync/-/raw/main/releases/dxvk-gplasync-v2.7.1-1.tar.gz",
       "Checksum": "1fe59a91f3d3a09a132d1f9c3f7e94d47154e53e58f935daa090aa6dea5c8e6c64800334a6f3014751492a2f32002d8ce63e8086284df0b8d4cbace0353e0f3b"
+    },
+    {
+      "Name": "dxvk-gplasync-v2.6.2-1",
+      "Label": "Async 2.6.2",
+      "Description": "Dxvk 2.6.2 with Async patches. Try this if 2.7.1 doesn\u0027t work.",
+      "DownloadUrl": "https://gitlab.com/Ph42oN/dxvk-gplasync/-/raw/main/releases/dxvk-gplasync-v2.6.2-1.tar.gz?ref_type=heads",
+      "Checksum": "54c3a97baed24aeded9d8ac12a266fd117d9b7b2f202fe507c253c1922b71ac63854a825b142a40f05ad6e8c3a22852583ddde7e0ff6c46f7ef5c996b3d26391"
     },
     {
       "Name": "dxvk-2.2",

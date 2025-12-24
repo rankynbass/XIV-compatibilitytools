@@ -1,6 +1,17 @@
 {
-  "ReleaseDate": "2025-10-11T15:44:21Z",
+  "ReleaseDate": "2025-12-24T01:09:49Z",
   "WineVersions": [
+    {
+      "Name": "unofficial-wine-xiv-staging-ntsync-10.20",
+      "Label": "Unofficial 10.20",
+      "Description": "Rankyn\u0027s Unofficial Wine-XIV 10.20 (NTSync only)",
+      "DownloadUrl": "https://github.com/rankynbass/unofficial-wine-xiv-git/releases/download/v10.20/unofficial-wine-xiv-staging-{wineDistroId}-ntsync-10.20.tar.xz",
+      "Checksums": [
+        "skip"
+      ],
+      "Lsteamclient": true,
+      "IsProton": false
+    },
     {
       "Name": "unofficial-wine-xiv-staging-10.16-2",
       "Label": "Unofficial 10.16-2",
@@ -131,10 +142,10 @@
   ],
   "ProtonVersions": [
     {
-      "Name": "GE-Proton10-17",
-      "Label": "GE-Proton 10-17",
-      "Description": "GE-Proton 10-17 with NTSync, FSync, and ESync. Now compatible with Dalamud",
-      "DownloadUrl": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-17/GE-Proton10-17.tar.gz",
+      "Name": "GE-Proton10-27",
+      "Label": "GE-Proton 10-27",
+      "Description": "GE-Proton 10-27 with NTSync, FSync, and ESync. Now compatible with Dalamud",
+      "DownloadUrl": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-27/GE-Proton10-27.tar.gz",
       "Checksums": [
         "skip"
       ],
@@ -197,7 +208,7 @@
       "IsProton": true
     }
   ],
-  "UmuLauncherUrl": "https://github.com/Open-Wine-Components/umu-launcher/releases/download/1.2.9/umu-launcher-1.2.9-zipapp.tar",
+  "UmuLauncherUrl": "https://github.com/Open-Wine-Components/umu-launcher/releases/download/1.3.0/umu-launcher-1.3.0-zipapp.tar",
   "DefaultWine": "unofficial-wine-xiv-staging-10.10",
   "DefaultProton": "XIV-Proton10-8"
 }
