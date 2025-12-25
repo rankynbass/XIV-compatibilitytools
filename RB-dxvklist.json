@@ -1,5 +1,5 @@
 {
-  "ReleaseDate": "2025-12-24T01:09:49Z",
+  "ReleaseDate": "2025-12-25T17:40:10Z",
   "DxvkVersions": [
     {
       "Name": "dxvk-2.7.1",
@@ -20,7 +20,7 @@
       "Label": "Async 2.7.1",
       "Description": "Dxvk 2.7.1 with GPLAsync patches. For most graphics cards.",
       "DownloadUrl": "https://gitlab.com/Ph42oN/dxvk-gplasync/-/raw/main/releases/dxvk-gplasync-v2.7.1-1.tar.gz",
-      "Checksum": "1fe59a91f3d3a09a132d1f9c3f7e94d47154e53e58f935daa090aa6dea5c8e6c64800334a6f3014751492a2f32002d8ce63e8086284df0b8d4cbace0353e0f3b"
+      "Checksum": "a5ea4d5d9e32612cfd451112a36f2a8f184a38c6be8921abbd876d274db471d6b27719e0479ebd1ac9aff0643e9b2039cbe44556b64d9a4de66b7ae6b0319e76"
     },
     {
       "Name": "dxvk-gplasync-v2.6.2-1",
