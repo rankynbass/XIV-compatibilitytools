@@ -1,11 +1,11 @@
 {
-  "ReleaseDate": "2025-12-24T01:09:49Z",
+  "ReleaseDate": "2026-01-25T22:26:39Z",
   "WineVersions": [
     {
-      "Name": "unofficial-wine-xiv-staging-ntsync-10.20",
-      "Label": "Unofficial 10.20",
-      "Description": "Rankyn\u0027s Unofficial Wine-XIV 10.20 (NTSync only)",
-      "DownloadUrl": "https://github.com/rankynbass/unofficial-wine-xiv-git/releases/download/v10.20/unofficial-wine-xiv-staging-{wineDistroId}-ntsync-10.20.tar.xz",
+      "Name": "unofficial-wine-xiv-staging-11.0",
+      "Label": "Unofficial 11.0",
+      "Description": "Rankyn\u0027s Unofficial Wine-XIV 11.0 (NTSync only)",
+      "DownloadUrl": "https://github.com/rankynbass/unofficial-wine-xiv-git/releases/download/v11.0/unofficial-wine-xiv-staging-{wineDistroId}-11.0.tar.xz",
       "Checksums": [
         "skip"
       ],
@@ -38,17 +38,6 @@
       "Name": "unofficial-wine-xiv-staging-10.14",
       "Label": "Unofficial 10.14",
       "Description": "Rankyn\u0027s Unofficial Wine-XIV 10.14",
-      "DownloadUrl": "https://github.com/rankynbass/unofficial-wine-xiv-git/releases/download/v10.14/unofficial-wine-xiv-staging-{wineDistroId}-10.14.tar.xz",
-      "Checksums": [
-        "skip"
-      ],
-      "Lsteamclient": true,
-      "IsProton": false
-    },
-    {
-      "Name": "unofficial-wine-xiv-staging-ntsync-10.14",
-      "Label": "Unofficial 10.14 NTSync",
-      "Description": "Rankyn\u0027s Unofficial Wine-XIV 10.14 with NTSync",
       "DownloadUrl": "https://github.com/rankynbass/unofficial-wine-xiv-git/releases/download/v10.14/unofficial-wine-xiv-staging-ntsync-10.14.tar.xz",
       "Checksums": [
         "skip"
@@ -79,12 +68,12 @@
       "IsProton": false
     },
     {
-      "Name": "unofficial-wine-xiv-valvebe-10-3",
-      "Label": "Unofficial ValveBE 10-3",
+      "Name": "unofficial-wine-xiv-valvebe-10-4",
+      "Label": "Unofficial ValveBE 10-4",
       "Description": "Valve bleeding edge Wine with XIV Patches.",
-      "DownloadUrl": "https://github.com/rankynbass/unofficial-wine-xiv-git/releases/download/valvebe-10-3/unofficial-wine-xiv-valvebe-10-3.tar.xz",
+      "DownloadUrl": "https://github.com/rankynbass/unofficial-wine-xiv-git/releases/download/valvebe-10-4/unofficial-wine-xiv-valvebe-10-4.tar.xz",
       "Checksums": [
-        "3aefdd0a070f20c8c4a63a359bae00ae381642a0c471fbe871534316551e974343bf35b07ec8971b7c260aba4921dbb0bf3a486944458f269239ac2e9c33b873"
+        "skip"
       ],
       "Lsteamclient": true,
       "IsProton": false
@@ -142,10 +131,10 @@
   ],
   "ProtonVersions": [
     {
-      "Name": "GE-Proton10-27",
-      "Label": "GE-Proton 10-27",
-      "Description": "GE-Proton 10-27 with NTSync, FSync, and ESync. Now compatible with Dalamud",
-      "DownloadUrl": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-27/GE-Proton10-27.tar.gz",
+      "Name": "GE-Proton10-29",
+      "Label": "GE-Proton 10-29",
+      "Description": "GE-Proton 10-29 with NTSync, FSync, and ESync. Now compatible with Dalamud",
+      "DownloadUrl": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-29/GE-Proton10-29.tar.gz",
       "Checksums": [
         "skip"
       ],
