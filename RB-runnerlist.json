@@ -1,5 +1,5 @@
 {
-  "ReleaseDate": "2026-04-19T21:47:25Z",
+  "ReleaseDate": "2026-06-26T01:28:26Z",
   "WineVersions": [
     {
       "Name": "unofficial-wine-xiv-staging-11.4",
@@ -131,10 +131,10 @@
   ],
   "ProtonVersions": [
     {
-      "Name": "GE-Proton10-34",
-      "Label": "GE-Proton 10-34",
-      "Description": "GE-Proton 10-34 with NTSync, FSync, and ESync. Now compatible with Dalamud",
-      "DownloadUrl": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-34/GE-Proton10-34.tar.gz",
+      "Name": "GE-Proton11-1",
+      "Label": "GE-Proton 11-1",
+      "Description": "GE-Proton 11-1 with NTSync, FSync, and ESync. Now compatible with Dalamud",
+      "DownloadUrl": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton11-1/GE-Proton11-1.tar.gz",
       "Checksums": [
         "skip"
       ],
@@ -142,10 +142,10 @@
       "IsProton": true
     },
     {
-      "Name": "GE-Proton10-12",
-      "Label": "GE-Proton 10-12",
-      "Description": "GE-Proton 10-12 with NTSync, FSync, and ESync. Now compatible with Dalamud",
-      "DownloadUrl": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-12/GE-Proton10-12.tar.gz",
+      "Name": "GE-Proton10-34",
+      "Label": "GE-Proton 10-34",
+      "Description": "GE-Proton 10-34 with NTSync, FSync, and ESync. Now compatible with Dalamud",
+      "DownloadUrl": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-34/GE-Proton10-34.tar.gz",
       "Checksums": [
         "skip"
       ],
@@ -184,20 +184,9 @@
       ],
       "Lsteamclient": true,
       "IsProton": true
-    },
-    {
-      "Name": "XIV-Proton8-30",
-      "Label": "XIV-Proton 8-30",
-      "Description": "GE-Proton 8-30 with XIV patches.",
-      "DownloadUrl": "https://github.com/rankynbass/proton-xiv/releases/download/XIV-Proton8-30/XIV-Proton8-30.tar.gz",
-      "Checksums": [
-        "91aad1e4ca8f5985cbe3c2c48e17c0d8e1a22f950a57373a3ed8a3c088458c3a2d0d644ec4a8cc2a6337ad4a24c656e30dd7c376d06914619fbd35ba706ccd65"
-      ],
-      "Lsteamclient": true,
-      "IsProton": true
     }
   ],
   "UmuLauncherUrl": "https://github.com/Open-Wine-Components/umu-launcher/releases/download/1.4.0/umu-launcher-1.4.0-zipapp.tar",
   "DefaultWine": "unofficial-wine-xiv-staging-10.10",
-  "DefaultProton": "XIV-Proton10-8"
+  "DefaultProton": "GE-Proton 10-34"
 }

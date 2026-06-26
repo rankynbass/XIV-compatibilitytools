@@ -1,6 +1,13 @@
 {
-  "ReleaseDate": "2026-04-19T20:58:37Z",
+  "ReleaseDate": "2026-06-26T01:28:26Z",
   "DxvkVersions": [
+    {
+      "Name": "dxvk-3.0",
+      "Label": "Stable 3.0",
+      "Description": "Dxvk 3.0 without Async patches. For most graphics cards.",
+      "DownloadUrl": "https://github.com/doitsujin/dxvk/releases/download/v3.0/dxvk-3.0.tar.gz",
+      "Checksum": "02cc04278a2e7e092a3aa1ec654cde8bbda40b14bdfbf0e29d69c89d93b3fd024592fa7e67121b0446137dedd7a75c44fd97013199e22c1bda05cf6397d77f77"
+    },
     {
       "Name": "dxvk-2.7.1",
       "Label": "Stable 2.7.1",
@@ -44,6 +51,6 @@
       "Checksum": "afc856b859f1c36d919055e471ae1dd1900424ea42139ab8c1ae231fe9617234d1dfa53f6bf0e5d183575a224f2b8bc950f258108607f39cc419823d68f06ff2"
     }
   ],
-  "Latest": "dxvk-2.7.1",
+  "Latest": "dxvk-3.0",
   "Legacy": "dxvk-async-1.10.3"
 }
