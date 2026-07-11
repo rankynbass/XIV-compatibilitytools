@@ -1,5 +1,5 @@
 {
-  "ReleaseDate": "2026-06-26T01:28:26Z",
+  "ReleaseDate": "2026-07-11T17:18:41Z",
   "WineVersions": [
     {
       "Name": "unofficial-wine-xiv-staging-11.4",
@@ -164,12 +164,12 @@
       "IsProton": true
     },
     {
-      "Name": "XIV-Proton10-8",
-      "Label": "XIV-Proton 10-8",
-      "Description": "GE-Proton 10-8 with XIV patches.",
-      "DownloadUrl": "https://github.com/rankynbass/proton-xiv/releases/download/XIV-Proton10-8/XIV-Proton10-8.tar.xz",
+      "Name": "XIV-Proton-10-final",
+      "Label": "XIV-Proton 10-final",
+      "Description": "Proton-CachyOS with XIV patches.",
+      "DownloadUrl": "https://github.com/rankynbass/proton-xiv/releases/download/XIV-Proton-10-final/XIV-Proton-10-final.tar.xz",
       "Checksums": [
-        "e37ba4962a354d0d1e4794afbb78385ecedfc8d95b1db3ea969ccf601ada7af61f987691e3e696cedbbfdde4e7d2ac72732e61a54c0f04110c847a18fe7c9288"
+        "62c251622dfaed8ca507c943c81af4b410e8ddab976c672940f12415f797700cde5b7b7608207e9849d2564796b85dd2f05b99bf160faf026cbf316dbf4604bf"
       ],
       "Lsteamclient": true,
       "IsProton": true
@@ -188,5 +188,5 @@
   ],
   "UmuLauncherUrl": "https://github.com/Open-Wine-Components/umu-launcher/releases/download/1.4.0/umu-launcher-1.4.0-zipapp.tar",
   "DefaultWine": "unofficial-wine-xiv-staging-10.10",
-  "DefaultProton": "GE-Proton 10-34"
+  "DefaultProton": "XIV-Proton-10-final"
 }
