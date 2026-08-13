@@ -1,12 +1,12 @@
 {
-  "ReleaseDate": "2026-07-12T03:43:53Z",
+  "ReleaseDate": "2026-08-13T02:01:54Z",
   "DxvkVersions": [
     {
-      "Name": "dxvk-3.0.1",
-      "Label": "Stable 3.0.1",
-      "Description": "Dxvk 3.0.1 without Async patches. For most graphics cards.",
-      "DownloadUrl": "https://github.com/doitsujin/dxvk/releases/download/v3.0.1/dxvk-3.0.1.tar.gz",
-      "Checksum": "37e54c236bcb12fabc089fcc6109c9dda94bd1ce72903906f1e9e02f0fc110aa9d0f74581fcb80cb0fb3f93ab723adaf38dffc9e47ff15d0499efa3b611e4aa1"
+      "Name": "dxvk-3.0.2",
+      "Label": "Stable 3.0.2",
+      "Description": "Dxvk 3.0.2 without Async patches. For most graphics cards.",
+      "DownloadUrl": "https://github.com/doitsujin/dxvk/releases/download/v3.0.2/dxvk-3.0.2.tar.gz",
+      "Checksum": "715c742c3caf79d6fae3fea574df615f418ad67c00e441dcbcd79cc93a93e9f6812d6f80d69de7be40e1cbc92bf06065f48d24d67bdb541d10ae8bf6ebb3f4c9"
     },
     {
       "Name": "dxvk-2.6.2",
@@ -44,6 +44,6 @@
       "Checksum": "afc856b859f1c36d919055e471ae1dd1900424ea42139ab8c1ae231fe9617234d1dfa53f6bf0e5d183575a224f2b8bc950f258108607f39cc419823d68f06ff2"
     }
   ],
-  "Latest": "dxvk-3.0.1",
+  "Latest": "dxvk-3.0.2",
   "Legacy": "dxvk-async-1.10.3"
 }

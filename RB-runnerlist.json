@@ -1,11 +1,11 @@
 {
-  "ReleaseDate": "2026-07-12T03:43:53Z",
+  "ReleaseDate": "2026-08-13T02:01:54Z",
   "WineVersions": [
     {
-      "Name": "unofficial-wine-xiv-staging-11.4",
-      "Label": "Unofficial 11.4",
-      "Description": "Rankyn\u0027s Unofficial Wine-XIV 11.4 (NTSync only)",
-      "DownloadUrl": "https://github.com/rankynbass/unofficial-wine-xiv-git/releases/download/v11.4/unofficial-wine-xiv-staging-{wineDistroId}-11.4.tar.xz",
+      "Name": "unofficial-wine-xiv-staging-11.14",
+      "Label": "Unofficial 11.14",
+      "Description": "Rankyn\u0027s Unofficial Wine-XIV 11.14 (NTSync only)",
+      "DownloadUrl": "https://github.com/rankynbass/unofficial-wine-xiv-git/releases/download/v11.14/unofficial-wine-xiv-staging-{wineDistroId}-11.14.tar.xz",
       "Checksums": [
         "skip"
       ],
@@ -13,10 +13,10 @@
       "IsProton": false
     },
     {
-      "Name": "unofficial-wine-xiv-staging-11.0",
-      "Label": "Unofficial 11.0",
-      "Description": "Rankyn\u0027s Unofficial Wine-XIV 11.0 (NTSync only)",
-      "DownloadUrl": "https://github.com/rankynbass/unofficial-wine-xiv-git/releases/download/v11.0/unofficial-wine-xiv-staging-{wineDistroId}-11.0.tar.xz",
+      "Name": "unofficial-wine-xiv-staging-11.4",
+      "Label": "Unofficial 11.4",
+      "Description": "Rankyn\u0027s Unofficial Wine-XIV 11.4 (NTSync only)",
+      "DownloadUrl": "https://github.com/rankynbass/unofficial-wine-xiv-git/releases/download/v11.4/unofficial-wine-xiv-staging-{wineDistroId}-11.4.tar.xz",
       "Checksums": [
         "skip"
       ],
@@ -131,10 +131,10 @@
   ],
   "ProtonVersions": [
     {
-      "Name": "GE-Proton11-1",
-      "Label": "GE-Proton 11-1",
-      "Description": "GE-Proton 11-1 with NTSync, FSync, and ESync. Now compatible with Dalamud",
-      "DownloadUrl": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton11-1/GE-Proton11-1.tar.gz",
+      "Name": "GE-Proton11-5-x86_64",
+      "Label": "GE-Proton 11-5",
+      "Description": "GE-Proton 11-5 with NTSync, FSync, and ESync. Now compatible with Dalamud",
+      "DownloadUrl": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton11-5/GE-Proton11-5-x86_64.tar.gz",
       "Checksums": [
         "skip"
       ],
@@ -186,7 +186,7 @@
       "IsProton": true
     }
   ],
-  "UmuLauncherUrl": "https://github.com/Open-Wine-Components/umu-launcher/releases/download/1.4.1/umu-launcher-1.4.1-zipapp.tar",
+  "UmuLauncherUrl": "https://github.com/Open-Wine-Components/umu-launcher/releases/download/1.4.4/umu-launcher-1.4.4-zipapp.tar",
   "DefaultWine": "unofficial-wine-xiv-staging-10.10",
   "DefaultProton": "XIV-Proton-10-final"
 }
