@@ -1,6 +1,13 @@
 {
-  "ReleaseDate": "2026-08-13T02:01:54Z",
+  "ReleaseDate": "2026-08-31T23:20:39Z",
   "DxvkVersions": [
+    {
+      "Name": "dxvk-3.1",
+      "Label": "Stable 3.1",
+      "Description": "Dxvk 3.1 without Async patches. For most graphics cards.",
+      "DownloadUrl": "https://github.com/doitsujin/dxvk/releases/download/v3.1/dxvk-3.1.tar.gz",
+      "Checksum": "d97ad3365e74a554188295d2f8aca8b42abc2937bf9351c5ac8771799b0ff5ac4ecf1493b61d784c4f05a7ca8ac71c712c9e372896a97b05e81f01edceb301f0"
+    },
     {
       "Name": "dxvk-3.0.2",
       "Label": "Stable 3.0.2",
@@ -11,7 +18,7 @@
     {
       "Name": "dxvk-2.6.2",
       "Label": "Stable 2.6.2",
-      "Description": "Dxvk 2.6.2 without Async patches. Try this if 3.0.1 doesn\u0027t work.",
+      "Description": "Dxvk 2.6.2 without Async patches. Try this if 3.1 or 3.02 don\u0027t work.",
       "DownloadUrl": "https://github.com/doitsujin/dxvk/releases/download/v2.6.2/dxvk-2.6.2.tar.gz",
       "Checksum": "9f70ec8129c1fed10b43f7a49cff588d7aff5b147e4e9d8043de81ed3d77ee4819d69359e797b596c9dfee7b69f193ad36bd91a62184664872a2a0e85dad90c2"
     },
@@ -25,7 +32,7 @@
     {
       "Name": "dxvk-gplasync-v2.6.2-1",
       "Label": "Async 2.6.2",
-      "Description": "Dxvk 2.6.2 with Async patches. Try this if 3.0.1 doesn\u0027t work.",
+      "Description": "Dxvk 2.6.2 with Async patches. Try this if 3.0-1 doesn\u0027t work.",
       "DownloadUrl": "https://gitlab.com/Ph42oN/dxvk-gplasync/-/raw/main/releases/dxvk-gplasync-v2.6.2-1.tar.gz?ref_type=heads",
       "Checksum": "54c3a97baed24aeded9d8ac12a266fd117d9b7b2f202fe507c253c1922b71ac63854a825b142a40f05ad6e8c3a22852583ddde7e0ff6c46f7ef5c996b3d26391"
     },

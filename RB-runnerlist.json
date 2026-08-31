@@ -1,5 +1,5 @@
 {
-  "ReleaseDate": "2026-08-13T02:01:54Z",
+  "ReleaseDate": "2026-08-31T23:20:39Z",
   "WineVersions": [
     {
       "Name": "unofficial-wine-xiv-staging-11.14",
@@ -90,27 +90,27 @@
       "IsProton": false
     },
     {
-      "Name": "wine-xiv-staging-fsync-git-10.8.r0.g47f77594-nolsc",
+      "Name": "wine-xiv-staging-fsync-git-10.8.r0.a2ca9e4-nolsc",
       "Label": "Official Stable",
       "Description": "Based on Wine 10.8 - recommended for most users.",
-      "DownloadUrl": "https://github.com/goatcorp/wine-xiv-git/releases/download/10.8.r0.g47f77594/wine-xiv-staging-fsync-git-{wineDistroId}-10.8.r0.g47f77594-nolsc.tar.xz",
+      "DownloadUrl": "https://github.com/goatcorp/wine-xiv-git/releases/download/10.8.r0.a2ca9e4/wine-xiv-staging-fsync-git-{wineDistroId}-10.8.r0.a2ca9e4-nolsc.tar.xz",
       "Checksums": [
-        "e7803fff77cec837f604eef15af8434b4d74acd0e3adf1885049b31143bdd6b69f03f56b14f078e501f42576b3b4434deca547294b2ded0c471720ef7e412367",
-        "7475788ba4cd448743fa44acba475eac796c9fe1ec8a2b37e0fdb7123cf3feac0c97f0a4e43ea023bf1e70853e7916a5a27e835fc5f651ac5c08040251bc4522",
-        "9d06e403b0b879a7b1f6394d69a6d23ee929c27f1f7a3abbf0f34fab3cbaff0b8154849d406f3ed15ee62ec0444379173070da208607fadabbf65186ed0cbf95"
+        "a4ff42d8e7a8057f794b3f3f6a686b21411f091c8264acd419869c726a1d21b594b2e024b7b995fea4fb99f3b4538fdda78eb0ab7a44d0905bc1272102eecf6e",
+        "1693253de16618db15ee51e1a96af02330eccccba4dc3f0710a63c920e33d5063c67c6b7d4950b61be61105f14eb301ef861278a057e6b4d31ccf8c58f126e60",
+        "3c306bd5e153563ba11befee529d34cef2e9138e23d0d6576f5723719ce8676970ff7196aee122348aef82b3afab8987fafe73ef11601c0e07b297a9aa2fe69d"
       ],
       "Lsteamclient": false,
       "IsProton": false
     },
     {
-      "Name": "wine-xiv-staging-fsync-git-10.8.r0.g47f77594",
+      "Name": "wine-xiv-staging-fsync-git-10.8.r0.a2ca9e4",
       "Label": "Official Beta",
       "Description": "Testing ground for the newest wine changes. Based on Wine 10.8 with Lsteamclient patches.",
-      "DownloadUrl": "https://github.com/goatcorp/wine-xiv-git/releases/download/10.8.r0.g47f77594/wine-xiv-staging-fsync-git-{wineDistroId}-10.8.r0.g47f77594.tar.xz",
+      "DownloadUrl": "https://github.com/goatcorp/wine-xiv-git/releases/download/10.8.r0.a2ca9e4/wine-xiv-staging-fsync-git-{wineDistroId}-10.8.r0.a2ca9e4.tar.xz",
       "Checksums": [
-        "fac545a5d8ee219bf622903adb7a5ca6f2f968d9a2307da3f0ec394dde08c4d4f956487f4b326ef1cfc92eaface463f270f590695ad8874d5c88028fac8f6250",
-        "c6857467ea3da9d7071164c89c87838dd1ff6006406e2ba24516bef3ea0c701386b26f68752b20710464410d62846ceea1c69f78caf777dbafc611daa7fba6c9",
-        "fb0bf85190ec9d001e39135537f27f82e8bd0ab1f222c008012128fbb6f6d8c8547f1315d09d909e7219fe2c221005a5b98927bfb95a24a36c5fca526ae0e95b"
+        "f5ca302bab5d4fc321800333da76daff6d18230dc24c36fc2f7eda4d918407c3ebbb9c5684c43c1d1110ff28b93503fbdc1b2bc9ad7109462884dcdc415dd5cc",
+        "eed98e8eeb176626689f77683620d323ace87662a79ef206394508742be6f1a1a581bcdaae08b1c19c1b8da2b077ec5b2dcb0b4937dd384d1d34b2f573040f8f",
+        "675a694f8a66c33222da3b713772f22801dff4e39d803df37e2116c6fe2d519083d307cbcfcc54e062e667bd811b50b5328f6d42b8e2d85c5efec7666c4bf5e2"
       ],
       "Lsteamclient": true,
       "IsProton": false
@@ -131,10 +131,10 @@
   ],
   "ProtonVersions": [
     {
-      "Name": "GE-Proton11-5-x86_64",
-      "Label": "GE-Proton 11-5",
-      "Description": "GE-Proton 11-5 with NTSync, FSync, and ESync. Now compatible with Dalamud",
-      "DownloadUrl": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton11-5/GE-Proton11-5-x86_64.tar.gz",
+      "Name": "GE-Proton11-6-x86_64",
+      "Label": "GE-Proton 11-6",
+      "Description": "GE-Proton 11-6 with NTSync, FSync, and ESync. Now compatible with Dalamud",
+      "DownloadUrl": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton11-6/GE-Proton11-6-x86_64.tar.gz",
       "Checksums": [
         "skip"
       ],
